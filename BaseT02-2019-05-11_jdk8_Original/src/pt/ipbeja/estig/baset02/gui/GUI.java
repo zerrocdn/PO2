@@ -1,5 +1,6 @@
 package pt.ipbeja.estig.baset02.gui;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,6 +18,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
+import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import pt.ipbeja.estig.baset02.model.Model;
 import pt.ipbeja.estig.baset02.model.Position;
@@ -39,7 +41,15 @@ public class GUI extends Application implements View {
 
 	@Override
 	public void start(Stage stgMain) throws Exception {
-		this.model = new Model(this);
+
+		FileChooser fileChooser = new FileChooser();
+		fileChooser.setTitle("Open text File");
+		fileChooser.getExtensionFilters().addAll(
+				new FileChooser.ExtensionFilter("Text Files", "*.txt", ".tex"));
+		File file = fileChooser.showOpenDialog(stgMain);
+
+
+		this.model = new Model(this, file);
 		this.stg = stgMain;
 		stg.setTitle("T02 base");
 		stg.setScene(this.createScene());

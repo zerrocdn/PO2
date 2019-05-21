@@ -1,15 +1,14 @@
 package pt.ipbeja.estig.baset02.model;
 
+import javafx.application.Platform;
+import javafx.scene.control.Alert;
 import pt.ipbeja.estig.baset02.gui.View;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Deque;
-import java.util.List;
-import java.util.Random;
-import java.util.Timer;
-import java.util.TimerTask;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.*;
+
+import static jdk.nashorn.internal.parser.TokenType.EOL;
 
 /**
  * @author João Paulo Barros
@@ -21,11 +20,14 @@ public class Model {
 
 	private List<List<Integer>> pieces;
 	private View view;
+	private File file;
+	private Scanner scanner;
 
 	/**
 	 * Creates board
 	 */
-	public Model(View view) {
+	public Model(View view, File file) {
+		this.file = file;
 		this.view = view;
 		this.resetBoard();
 	}
@@ -35,13 +37,19 @@ public class Model {
 	 */
 	private void resetBoard() {
 		this.pieces = new ArrayList<>();
-		int i = 1;
-		for (int line = 0; line < Model.N_LINES; line++) {
-			this.pieces.add(new ArrayList<>());
-			for (int col = 0; col < Model.N_COLS; col++) {
-				this.pieces.get(line).add(i);
+		try {
+			this.scanner = new Scanner(file);
+			for (int line = 0; line < Model.N_LINES; line++) {
+				this.pieces.add(new ArrayList<>());
+				for (int col = 0; col < Model.N_COLS; col++) {
+					int i = scanner.nextInt();
+					this.pieces.get(line).add(i);
+				}
 			}
+		} catch (FileNotFoundException e) {
+			System.out.println("ERRO");
 		}
+
 	}
 
 	public void positionSelected(Position position)
@@ -59,4 +67,6 @@ public class Model {
 	{
 		return this.pieces.get(line).get(col);
 	}
+
+
 }

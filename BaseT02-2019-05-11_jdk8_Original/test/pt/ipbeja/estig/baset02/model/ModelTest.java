@@ -2,6 +2,8 @@ package pt.ipbeja.estig.baset02.model;
 
 import org.junit.jupiter.api.Test;
 
+import java.io.File;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
@@ -11,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class ModelTest {
     @Test
     void testPositionSelected() {
-        Model m = new Model(new DummyView());
+        Model m = new Model(new DummyView(),new File(""));
 
         m.positionSelected(new Position(2, 3));
         assertEquals(0, m.getValue(2, 3));

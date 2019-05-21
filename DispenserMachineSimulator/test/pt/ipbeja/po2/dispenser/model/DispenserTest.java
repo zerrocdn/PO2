@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author DiogoPM
- * @version 11/04/2019
+ * @version 23/04/2019
  */
 
 class DispenserTest {
@@ -120,42 +120,6 @@ class DispenserTest {
     }
 
 
-    @Test
-    void testSetProductPrice() {
-
-        Dispenser dispenser = new Dispenser(40);
-
-        // tentamos mudar o preço para um múltiplo de 10
-        dispenser.setProductPrice(20);
-        // verificamos que resultou
-        assertEquals(20, dispenser.getProductPrice());
-
-        // tentamos mudar o preço para um valor que não é multiplo de 10
-        dispenser.setProductPrice(15);
-
-        // se resultasse, poderiamos comprar um produto com 15 e daria troco 0
-        dispenser.insertCoin(10);
-        dispenser.insertCoin(5);
-
-        // verificamos que não foi possível pois o preço não era válido
-        int result = dispenser.buyProduct();
-        assertNotEquals(0, result);
-
-    }
-
-    @Test
-    void testBuyMultipleProducts() {
-        Dispenser dispenser = new Dispenser(40);
-
-        // colocamos a quantidade de produtos a comprar (3 x 40)
-        dispenser.setAmountToBuy(3);
-        dispenser.insertCoin(50);
-        dispenser.insertCoin(50);
-        dispenser.insertCoin(50);
-        // o troco terá de ser (150 - (3 x 40) = 30)
-        int change = dispenser.buyProduct();
-        assertEquals(30, change);
-    }
 
 
 
