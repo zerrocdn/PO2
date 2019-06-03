@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c143785f-e514-4de4-9f20-2a20f01dce36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/products/ComparatorByNameThenPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Horoscope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Horoscope/signo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Horoscope/src/pt/ipbeja/po2/horoscope/Horoscope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Bispo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Rainha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Rei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Torre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Rei.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Rei.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

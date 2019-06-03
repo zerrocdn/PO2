@@ -14,8 +14,8 @@ public class Start extends Application {
     public void start(Stage primaryStage) {
         this.board = new Board();
         Scene scene = new Scene(this.board);
-        primaryStage.setMinHeight(550);
-        primaryStage.setMinWidth(550);
+        primaryStage.setMinHeight(600);
+        primaryStage.setMinWidth(750);
         primaryStage.setScene(scene);
         primaryStage.show();
     }

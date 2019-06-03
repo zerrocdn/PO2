@@ -17,12 +17,13 @@ public class Board extends BorderPane implements View {
     private GridPane board;
     private Model model;
     private BorderPane gamePane;
-    private Rei r;
+    private Label gameMenu;
 
 
     public Board() {
         this.board = new GridPane();
         this.model = new Model(this);
+        this.gameMenu = new Label();
         this.gamePane = new BorderPane();
         this.gamePane.setMaxSize(500,500);
         this.setMinSize(500,500);
@@ -52,8 +53,8 @@ public class Board extends BorderPane implements View {
     }
 
     public void setInicialPositions(){
-        Rei BKing= new Rei();
-        Rei WKing= new Rei();
+        Rei BKing= new Rei(this);
+        Rei WKing= new Rei(this);
         this.board.add(WKing,4, 0);
         this.board.add(BKing,4, 7);
     }
@@ -66,12 +67,16 @@ public class Board extends BorderPane implements View {
         this.setLeft(vBox);
         Label title = new Label("Chess Game");
         HBox hBoxTitle = new HBox();
-        hBoxTitle.getChildren().add(title);
+        hBoxTitle.getChildren().add(gameMenu);
         hBoxTitle.setAlignment(Pos.CENTER);
         HBox hBoxPlayer = new HBox();
         HBox hBoxScore = new HBox();
 
         vBox.getChildren().addAll(hBoxTitle,hBoxPlayer , hBoxScore);
+    }
+
+    public void setHistory(String position){
+        this.gameMenu.setText(position);
     }
 
     public void createLabels(){
@@ -110,4 +115,8 @@ public class Board extends BorderPane implements View {
     }
 
 
+    @Override
+    public void print(String string) {
+        this.gameMenu.setText(string);
+    }
 }
