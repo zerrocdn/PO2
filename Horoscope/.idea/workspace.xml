@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce3c65b0-14a6-44c5-8485-c5698f0c87cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/src/pt/ipbeja/po2/dispenser/model/products/ComparatorByNameThenPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/po2/horoscope/Horoscope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/gui/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_0/src/pt/ipbeja/estig/chess/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/signo.txt" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/horoscope/Horoscope.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="30" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Horoscope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Horoscope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Horoscope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Horoscope" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Horoscope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Horoscope" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Horoscope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Horoscope" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Horoscope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Horoscope" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Horoscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.horoscope.Horoscope" />
+      <module name="Horoscope" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.horoscope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Horoscope" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3c65b0-14a6-44c5-8485-c5698f0c87cf" name="Default Changelist" comment="" />
+      <created>1559137489479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559137489479</updated>
+      <workItem from="1559137491239" duration="3134000" />
+      <workItem from="1559411417762" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3154000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18409091" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23973727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/jdk/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk/jdk1.8.0_211/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1314">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk/jdk1.8.0_211/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="3680" column="35" selection-start-line="3680" selection-start-column="31" selection-end-line="3680" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/horoscope/Horoscope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package pt.ipbeja.po2.dispenser.model;
+package pt.ipbeja.po2.dispenser.model.Products;
 
 /**
  * @author DiogoPM

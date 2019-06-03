@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="531490aa-136a-4219-ab85-39fae89150fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/src/pt/ipbeja/po2/dispenser/model/products/ComparatorByNameThenPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Horoscope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Horoscope/signo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Horoscope/src/pt/ipbeja/po2/horoscope/Horoscope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/gui/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/src/pt/ipbeja/estig/baset02/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/DummyView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8/test/pt/ipbeja/estig/baset02/model/ModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/View.java" />
+        <option value="$PROJECT_DIR$/src/gui/GUI.java" />
+        <option value="$PROJECT_DIR$/src/model/chess_model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/model/chess_model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/chess_model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/GUI.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Pieces.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/pawn.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="30" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="estig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="estig" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="estig" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="estig" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.ipbeja.estig.chess.gui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.chess.gui.Start" />
+      <module name="TP2_versao_0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.chess.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531490aa-136a-4219-ab85-39fae89150fb" name="Default Changelist" comment="" />
+      <created>1559123180446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559123180446</updated>
+      <workItem from="1559123181730" duration="7120000" />
+      <workItem from="1559411440351" duration="784000" />
+      <workItem from="1559581008947" duration="5467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13371000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1719697" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32840723" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1719697" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Model.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TP2_versao_0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -5,8 +5,6 @@ import java.util.List;
 
 import javafx.application.Application;
 import javafx.application.Platform;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -32,8 +30,6 @@ public class GUI extends Application implements View {
 
 	private Model model;
 	private GridPane buttonsGrid;
-	private CellButton[][] buttons;
-	private Stage stg;
 
 	public static void main(String[] args) {
 		Application.launch(args);
@@ -41,26 +37,16 @@ public class GUI extends Application implements View {
 
 	@Override
 	public void start(Stage stgMain) throws Exception {
-		this.stg = stgMain;
 		this.model = new Model(this);
-		this.buttons = new CellButton[model.N_LINES][model.N_COLS];
 
-		stg.setTitle("T02 base");
-		stg.setScene(this.createScene());
-		stg.show();
+		stgMain.setTitle("T02 base");
+		stgMain.setScene(this.createScene());
+		stgMain.show();
 	}
 
 	private Scene createScene() {
-		Button btn = new Button("New Game");
-		btn.setOnAction((e) -> {
-
-				System.out.println(67675656 + "Dsfsdfsdfsdfsd");
-				model.newGame();
-				stg.setScene(createScene());
-
-		});
 		VBox vbxMain = new VBox();
-		vbxMain.getChildren().addAll(btn,this.createButtonsUI());
+		vbxMain.getChildren().add(this.createButtonsUI());
 		return new Scene(vbxMain);
 	}
 
@@ -70,10 +56,10 @@ public class GUI extends Application implements View {
 
 		for (int row = 0; row < Model.N_LINES; row++) {
 			for (int col = 0; col < Model.N_COLS; col++) {
-				buttons[row][col] = new CellButton("", new Position(row, col));
-				buttons[row][col].setMinSize(BUTTON_SIZE, BUTTON_SIZE);
-				this.buttonsGrid.add(buttons[row][col], col, row);
-				buttons[row][col].setOnAction( (e) -> {
+				CellButton b = new CellButton("", new Position(row, col));
+				b.setMinSize(BUTTON_SIZE, BUTTON_SIZE);
+				this.buttonsGrid.add(b, col, row);
+				b.setOnAction( (e) -> {
 					CellButton cb = (CellButton)(e.getSource());
 					this.model.positionSelected(cb.getPosition());
 				});
@@ -90,10 +76,5 @@ public class GUI extends Application implements View {
 				b.setText("" + pieces.get(row).get(col));
 			}
 		}
-	}
-
-	@Override
-	public void setOff(int row, int col) {
-		this.buttons[row][col].setDisable(true);
 	}
 }

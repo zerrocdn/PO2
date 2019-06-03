@@ -2,73 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c143785f-e514-4de4-9f20-2a20f01dce36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseT02-2019-05-11_jdk8_Original/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DispenserMachineSimulator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DispenserMachineSimulator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/DispenserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/DispenserTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/jpeg_fx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/applecoreaudio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/glib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/gstreamer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/libffi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/icu_web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/libxml2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/libxslt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/webkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx-swt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.base.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.controls.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.fxml.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.graphics.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.media.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.swing.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.web.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-54.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libdecora_sse.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libfxplugins.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglass.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglassgtk2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglassgtk3.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libgstreamer-lite.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font_freetype.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font_pango.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_iio.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjfxmedia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjfxwebkit.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_common.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_es2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_sw.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/src.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,21 +14,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-              <folding>
-                <element signature="e#2137#2138#0" expanded="true" />
-                <element signature="e#2193#2194#0" expanded="true" />
-                <element signature="e#3023#3024#0" expanded="true" />
-                <element signature="e#3058#3059#0" expanded="true" />
-                <element signature="e#3092#3093#0" expanded="true" />
-                <element signature="e#3125#3126#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -128,6 +61,8 @@
         <option value="$PROJECT_DIR$/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" />
         <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" />
         <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Product/Dispenser.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" />
       </list>
     </option>
   </component>
@@ -140,11 +75,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,23 +95,64 @@
               <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="dispenser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="dispenser" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="dispenser" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="Products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DispenserMachineSimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="DispenserMachineSimulator" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -194,7 +169,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -227,7 +202,7 @@
       <module name="DispenserMachineSimulator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.*" />
+          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.Products.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,7 +214,7 @@
       <module name="DispenserMachineSimulator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.*" />
+          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.Products.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,7 +229,7 @@
       <module name="DispenserMachineSimulator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.*" />
+          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.Products.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,7 +245,7 @@
       <module name="DispenserMachineSimulator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.*" />
+          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.Products.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,7 +261,7 @@
       <module name="DispenserMachineSimulator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.*" />
+          <option name="PATTERN" value="pt.ipbeja.po2.dispenser.model.Products.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,6 +302,8 @@
       <updated>1554904191329</updated>
       <workItem from="1558443862690" duration="185000" />
       <workItem from="1558444071269" duration="606000" />
+      <workItem from="1558534088182" duration="1105000" />
+      <workItem from="1558535340613" duration="53000" />
     </task>
     <servers />
   </component>
@@ -363,7 +340,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="791000" />
+    <option name="totallyTimeSpent" value="1949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,17 +353,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2060606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4312026" />
@@ -398,7 +372,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32789117" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -408,6 +383,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,18 +411,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Product.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Dispenser.java">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding>
-            <element signature="e#2137#2138#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-            <element signature="e#3023#3024#0" expanded="true" />
-            <element signature="e#3058#3059#0" expanded="true" />
-            <element signature="e#3092#3093#0" expanded="true" />
-            <element signature="e#3125#3126#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
         </state>
       </provider>
     </entry>

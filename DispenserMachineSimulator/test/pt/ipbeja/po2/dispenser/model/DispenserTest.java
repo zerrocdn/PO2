@@ -1,6 +1,7 @@
 package pt.ipbeja.po2.dispenser.model;
 
 import org.junit.jupiter.api.Test;
+import pt.ipbeja.po2.dispenser.model.Products.Dispenser;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,80 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69513752-c67a-4433-b164-42926553198d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinimalFileReader2019/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="69513752-c67a-4433-b164-42926553198d" name="Default Changelist" comment="preencher a tabela com valores do ficheiro txt">
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/src/pt/ipbeja/po2/dispenser/model/products/ComparatorByNameThenPrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/gui/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/ModelTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/DispenserMachineSimulator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/DispenserMachineSimulator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/out/production/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/out/production/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/Dispenser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/out/test/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/DispenserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/out/test/DispenserMachineSimulator/pt/ipbeja/po2/dispenser/model/DispenserTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/src/pt/ipbeja/po2/dispenser/model/Products/Dispenser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator/test/pt/ipbeja/po2/dispenser/model/DispenserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.base/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.controls/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.fxml/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.graphics/jpeg_fx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/applecoreaudio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/glib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/gstreamer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.media/libffi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.swing/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/icu_web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/libxml2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/libxslt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/legal/javafx.web/webkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx-swt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.base.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.controls.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.fxml.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.graphics.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.media.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.swing.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/javafx.web.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-54.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libdecora_sse.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libfxplugins.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglass.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglassgtk2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libglassgtk3.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libgstreamer-lite.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font_freetype.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_font_pango.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjavafx_iio.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjfxmedia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libjfxwebkit.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_common.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_es2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/libprism_sw.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-11.0.2/lib/src.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Model.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+            <state relative-caret-position="527">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/board.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/ModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="165">
               <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,12 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/gui/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="e#2353#2354#0" expanded="true" />
-                <element signature="e#2392#2393#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -202,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -213,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,32 +155,11 @@
               <item name="BaseT02-2019-05-11_jdk8_Original" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baset02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baset02" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseT02-2019-05-11_jdk8_Original" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baset02" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,6 +174,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -335,8 +247,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557182431151</updated>
-      <workItem from="1558447218915" duration="1557000" />
+      <workItem from="1558447218915" duration="2228000" />
+      <workItem from="1558532981716" duration="87000" />
+      <workItem from="1558533794430" duration="291000" />
+      <workItem from="1558619154350" duration="616000" />
+      <workItem from="1558620004408" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="preencher a tabela com valores do ficheiro txt">
+      <created>1558453091446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558453091446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -351,24 +275,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1557000" />
+    <option name="totallyTimeSpent" value="3562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18181819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19393939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28078818" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28078818" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +298,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32840723" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -386,15 +308,34 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="preencher a tabela com valores do ficheiro txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="preencher a tabela com valores do ficheiro txt" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Move.java" />
     <entry file="file://$PROJECT_DIR$/baseT02-2019-05-11.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/DummyView.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -403,6 +344,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/ModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -420,45 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/baset02/model/ModelTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/board.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/gui/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#2353#2354#0" expanded="true" />
-            <element signature="e#2392#2393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/baset02/model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        <state relative-caret-position="390">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
