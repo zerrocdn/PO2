@@ -8,21 +8,18 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import pt.ipbeja.estig.chess.View;
-import pt.ipbeja.estig.chess.model.Model;
 import pt.ipbeja.estig.chess.model.Rei;
 
 public class Board extends BorderPane implements View {
 
     private final int BOARD_SIZE = 8;
     private GridPane board;
-    private Model model;
     private BorderPane gamePane;
     private Label gameMenu;
 
 
     public Board() {
         this.board = new GridPane();
-        this.model = new Model(this);
         this.gameMenu = new Label();
         this.gamePane = new BorderPane();
         this.gamePane.setMaxSize(500,500);
@@ -42,7 +39,7 @@ public class Board extends BorderPane implements View {
                 //this.r= new Rei();
                 btn.setMinSize(50,50);
                 if((i+j) % 2 == 0){
-                    btn.setStyle("-fx-background-color: white");
+                    btn.setStyle("-fx-background-color: pink");
                 }else{
                     btn.setStyle("-fx-background-color: black");
                 }

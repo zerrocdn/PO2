@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="531490aa-136a-4219-ab85-39fae89150fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/Test/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/gui/ChessButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/gui/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/model/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/model/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2_versao_1/src/pt/ipbeja/estig/po2/chess/model/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2_versao_0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_versao_0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP2_versao_0/META-INF/TP2_versao_0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP2_versao_0/pt/ipbeja/estig/chess/gui/Board.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,15 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2213#2214#0" expanded="true" />
-                <element signature="e#2255#2256#0" expanded="true" />
-                <element signature="e#3635#3636#0" expanded="true" />
-                <element signature="e#3671#3672#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -43,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="238">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -55,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="136">
               <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,12 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="51">
               <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -80,11 +80,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="85">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="289">
               <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,11 +105,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               <folding>
                 <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="102">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
@@ -127,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="51">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -170,11 +170,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="292" />
-    <option name="y" value="30" />
-    <option name="width" value="683" />
-    <option name="height" value="738" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,56 +197,6 @@
               <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
-              <item name="estig" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
-              <item name="estig" type="462c0819:PsiDirectoryNode" />
-              <item name="chess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
-              <item name="estig" type="462c0819:PsiDirectoryNode" />
-              <item name="chess" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TP2_versao_0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TP2_versao_0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
-              <item name="estig" type="462c0819:PsiDirectoryNode" />
-              <item name="chess" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +208,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DispenserMachineSimulator-Base-GP6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP2_versao_1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -316,16 +268,19 @@
       <workItem from="1559123181730" duration="7120000" />
       <workItem from="1559411440351" duration="784000" />
       <workItem from="1559581008947" duration="7038000" />
+      <workItem from="1559733880380" duration="372000" />
+      <workItem from="1559734330798" duration="1957000" />
+      <workItem from="1559816831705" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14942000" />
+    <option name="totallyTimeSpent" value="17334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1366" height="738" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1719697" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33585477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,7 +289,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33169934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,59 +349,16 @@
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Model.java" />
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/View.java" />
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/GUI.java" />
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="238">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -454,16 +366,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Piece.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Torre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rainha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Rei.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="289">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -471,17 +404,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/gui/Board.java">
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Bispo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2213#2214#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-            <element signature="e#3635#3636#0" expanded="true" />
-            <element signature="e#3671#3672#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/chess/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
