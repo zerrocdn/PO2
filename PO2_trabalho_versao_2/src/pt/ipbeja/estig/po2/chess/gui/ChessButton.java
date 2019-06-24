@@ -3,7 +3,6 @@ package pt.ipbeja.estig.po2.chess.gui;
 
 
 import javafx.scene.control.Button;
-import javafx.scene.paint.Color;
 
 public class ChessButton extends Button {
 

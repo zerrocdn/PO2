@@ -8,6 +8,8 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Shape;
 import pt.ipbeja.estig.po2.chess.View;
 import pt.ipbeja.estig.po2.chess.model.Board;
 import pt.ipbeja.estig.po2.chess.model.Piece;
@@ -21,6 +23,7 @@ public class GUI extends BorderPane implements View {
     private ChessButton[][] btn;
     private GridPane boardGrid;
     private BorderPane gamePane;
+    private Shape greenCircle;
 
     public GUI() {
         this.board = new Board(this);
@@ -38,9 +41,9 @@ public class GUI extends BorderPane implements View {
                 this.btn[i][j] = new ChessButton(i, j);
                 this.btn[i][j].setOnAction(handler);
                 if ((i+j)%2 == 0){
-                    this.btn[i][j].setStyle("-fx-background-color: #eaf9a4");
+                    this.btn[i][j].setStyle("-fx-background-color: #f9e48e");
                 }else{
-                    this.btn[i][j].setStyle("-fx-background-color: #f7b033");
+                    this.btn[i][j].setStyle("-fx-background-color: #725d04");
                 }
                 this.boardGrid.add(this.btn[i][j],j, i);
 
@@ -103,14 +106,15 @@ public class GUI extends BorderPane implements View {
     @Override
     public void possibleMoves(List<Position> moves) {
         for (Position pos: moves) {
-            this.btn[pos.getTranslatedLine()][pos.getTranslatedCol()].setStyle("-fx-background-color: green");
+            this.btn[pos.getTranslatedLine()][pos.getTranslatedCol()].setGraphic(new Circle(5,Color.GREEN));
         }
     }
 
     @Override
     public void possibleTakes(List<Position> takes) {
         for (Position pos: takes) {
-            this.btn[pos.getTranslatedLine()][pos.getTranslatedCol()].setStyle("-fx-background-color: red");
+            this.btn[pos.getTranslatedLine()][pos.getTranslatedCol()].setGraphic(null);
+            this.btn[pos.getTranslatedLine()][pos.getTranslatedCol()].setStyle("-fx-border-width: 2px; -fx-border-color: red");
         }
     }
 
@@ -119,10 +123,12 @@ public class GUI extends BorderPane implements View {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 this.btn[i][j].setText("");
+                this.btn[i][j].setGraphic(null);
                 if ((i+j)%2 == 0){
-                    this.btn[i][j].setStyle("-fx-background-color: #eaf9a4");
+                    this.btn[i][j].setStyle("-fx-background-color: #f9e48e");
                 }else{
-                    this.btn[i][j].setStyle("-fx-background-color: #f7b033");
+                    this.btn[i][j].setStyle("-fx-background-color: #725d04");
+
                 }
             }
         }

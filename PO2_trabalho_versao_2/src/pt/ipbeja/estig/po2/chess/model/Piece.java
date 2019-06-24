@@ -34,4 +34,24 @@ public abstract class Piece {
 
     public abstract List<Position> possibleMoves();
     public abstract List<Position> possibleTakes(List<Position> moves);
+
+    protected boolean friendlyPosition(Position pos) {
+        List<Piece> pieces = (this.isWhite()? this.board.whitePieces : this.board.blackPieces);
+        for (Piece p: pieces) {
+            if (p.getPosition().equals(pos)){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    protected boolean enemyPosition(Position pos) {
+        List<Piece> pieces = (this.isWhite()? this.board.blackPieces : this.board.whitePieces);
+        for (Piece p: pieces) {
+            if (p.getPosition().equals(pos)){
+                return true;
+            }
+        }
+        return false;
+    }
 }

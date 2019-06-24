@@ -10,7 +10,7 @@ public class Board {
 
     private View view;
 
-    private int BOARD_SIZE = 8;
+    public int BOARD_SIZE = 8;
     public Position[][]boardPositions;
     public List<Piece> whitePieces, blackPieces;
     private Piece selectedPiece;
@@ -37,9 +37,26 @@ public class Board {
             }
             System.out.println();
         }
+        setInicialPositions();
 
+
+
+
+
+
+    }
+
+    public void setInicialPositions(){
         whitePieces.add(new King(this, this.boardPositions[4][7],true));
         blackPieces.add(new King(this, this.boardPositions[4][0],false));
+        whitePieces.add(new Tower(this, this.boardPositions[7][7],true));
+        whitePieces.add(new Tower(this, this.boardPositions[0][7],true));
+        blackPieces.add(new Tower(this, this.boardPositions[7][0],false));
+        blackPieces.add(new Tower(this, this.boardPositions[0][0],false));
+        whitePieces.add(new Bishop(this, this.boardPositions[5][7],true));
+        whitePieces.add(new Bishop(this, this.boardPositions[2][7],true));
+        blackPieces.add(new Bishop(this, this.boardPositions[2][0],false));
+        blackPieces.add(new Bishop(this, this.boardPositions[5][0],false));
 
     }
 
