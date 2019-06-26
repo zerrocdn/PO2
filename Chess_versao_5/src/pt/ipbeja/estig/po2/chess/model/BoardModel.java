@@ -5,42 +5,27 @@ public class BoardModel {
     private Piece[][] piecesBoard;
     public final int BOARD_SIZE = 8;
 
+    private TypeWritter typeWritter;
+
     public static void main(String[] args) {
         new BoardModel();
     }
 
     public BoardModel() {
         createBoard();
-        printBoard();
+        this.typeWritter = new TypeWritter("plays.txt");
 
-//        System.out.println(this.piecesBoard[3][1].isWhiteToString() + "" + this.piecesBoard[3][1].pieceName + " " + this.piecesBoard[3][1].possibleMoves());
-//        System.out.println(this.piecesBoard[3][1].isWhiteToString() + "" + this.piecesBoard[3][1].pieceName + " " + this.piecesBoard[3][1].possibleTakes());
-//
-//
-//        System.out.println(this.piecesBoard[6][1].isWhiteToString() + "" + this.piecesBoard[6][1].pieceName + " " + this.piecesBoard[6][1].possibleMoves());
-//        System.out.println(this.piecesBoard[6][1].isWhiteToString() + "" + this.piecesBoard[6][1].pieceName + " " + this.piecesBoard[6][1].possibleTakes());
-//
-//
-//        System.out.println(this.piecesBoard[3][3].isWhiteToString() + "" + this.piecesBoard[3][3].pieceName + " " + this.piecesBoard[3][3].possibleMoves());
-//        System.out.println(this.piecesBoard[3][3].isWhiteToString() + "" + this.piecesBoard[3][3].pieceName + " " + this.piecesBoard[3][3].possibleTakes());
-        System.out.println();
-
-        movePiece(this.piecesBoard[0][1].getPosition(), new Position(8, 'a'));
-
-        printBoard();
+        movePiece(this.piecesBoard[0][0].getPosition(), new Position(2, 2));
+        movePiece(this.piecesBoard[7][7].getPosition(), new Position(7, 6));
     }
 
     private void createBoard(){
 
         this.piecesBoard = new Piece[BOARD_SIZE][BOARD_SIZE];
 
-        this.piecesBoard[3][3]= new Bishop(this, new Position(3, 3), true);
-        this.piecesBoard[7][6]= new King(this, new Position(7, 6), true);
-        this.piecesBoard[6][1] = new Tower(this, new Position(6, 1), true);
-        this.piecesBoard[1][1]= new Tower(this, new Position(1, 1), true);
-        this.piecesBoard[0][1]= new King(this, new Position(0, 1), false);
-        this.piecesBoard[1][5]= new Tower(this, new Position(5, 5), false);
-        this.piecesBoard[3][1] = new Queen(this, new Position(3, 1), false);
+        this.piecesBoard[0][0] = new Bishop(this, new Position(0, 0), true);
+        this.piecesBoard[7][7] = new King(this, new Position(7, 7), false);
+
     }
 
     private void printBoard(){
@@ -88,8 +73,20 @@ public class BoardModel {
         this.piecesBoard[end.getTranslatedLine()][end.getTranslatedCol()] = p;
         this.piecesBoard[start.getTranslatedLine()][start.getTranslatedCol()] = null;
 
+        this.typeWritter.writePlay(p, end, 1);
        // System.out.println( this.piecesBoard[start.getTranslatedLine()][start.getTranslatedCol()].position.getCol()+ " " + this.piecesBoard[start.getTranslatedLine()][start.getTranslatedCol()].position.getLine());
     }
+
+    public void setPieceOnBoard(Piece piece, int line, char col){
+        Position p = new Position(line, col);
+        piece.setPosition(p);
+        this.piecesBoard[p.getTranslatedLine()][p.getTranslatedCol()] = piece;
+    }
+
+    public Piece getPiece(int line, int col){
+        return this.piecesBoard[line][col];
+    }
+
 
 
 }

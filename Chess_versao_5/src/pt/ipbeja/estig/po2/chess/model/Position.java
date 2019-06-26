@@ -1,5 +1,7 @@
 package pt.ipbeja.estig.po2.chess.model;
 
+import java.util.Objects;
+
 public class Position {
 
     private char col;
@@ -51,7 +53,21 @@ public class Position {
 
     @Override
     public String toString() {
-        return " " + col + line;
+        return "" + col + line;
 
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Position position = (Position) o;
+        return col == position.col &&
+                line == position.line;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(col, line);
     }
 }

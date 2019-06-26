@@ -9,6 +9,11 @@ public class King extends Piece {
         pieceName = 'R';
     }
 
+    public King(BoardModel boardModel, boolean isWhite) {
+        super(boardModel, isWhite);
+        pieceName = 'R';
+    }
+
     @Override
     protected List<Position> possibleMoves() {
         List<Position> moves = new ArrayList<Position>();

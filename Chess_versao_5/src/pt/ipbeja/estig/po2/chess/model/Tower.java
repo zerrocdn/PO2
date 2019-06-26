@@ -14,10 +14,17 @@ public class Tower extends Piece {
         pieceName = 'T';
     }
 
+    public Tower(BoardModel boardModel, boolean isWhite) {
+        super(boardModel, isWhite);
+        pieceName = 'T';
+    }
+
     @Override
     protected List<Position> possibleMoves() {
 
         List<Position> moves = new ArrayList<>();
+
+        this.movesWithTakes.clear();
 
         int myLine = this.position.getTranslatedLine();
         int myCol = this.position.getTranslatedCol();
@@ -32,6 +39,9 @@ public class Tower extends Piece {
     protected List<Position> possibleTakes() {
         List<Position> takes = new ArrayList<>();
 
+        if (this.movesWithTakes.isEmpty()){
+            possibleMoves();
+        }
 
         boolean up = true;
 

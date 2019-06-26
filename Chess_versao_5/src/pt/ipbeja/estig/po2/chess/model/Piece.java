@@ -33,6 +33,11 @@ public abstract class Piece {
 
     }
 
+    public Piece(BoardModel boardModel, boolean isWhite) {
+        this.boardModel = boardModel;
+        this.isWhite = isWhite;
+    }
+
     protected abstract List<Position> possibleMoves();
     protected abstract List<Position> possibleTakes();
 }
