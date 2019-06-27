@@ -1,0 +1,5 @@
+Este texto serve
+para testar a leitura
+em mais
+que uma
+linha
