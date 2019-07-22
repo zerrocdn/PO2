@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d823e80-6d6a-42ed-a3c6-0f3c1b83cadc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaseT02-2019-05-11_jdk8/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/TestView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/ConnectFourModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2771">
+              <caret line="167" column="101" selection-start-line="167" selection-start-column="101" selection-end-line="167" selection-end-column="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6684#6685#0" expanded="true" />
+                <element signature="e#6757#6758#0" expanded="true" />
+                <element signature="e#8847#8848#0" expanded="true" />
+                <element signature="e#8901#8902#0" expanded="true" />
+                <element signature="e#9549#9550#0" expanded="true" />
+                <element signature="e#9591#9592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/ConnectFourMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/CellButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="185" column="5" lean-forward="true" selection-start-line="185" selection-start-column="5" selection-end-line="185" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asss</find>
+      <find>get</find>
+      <find>bOAR</find>
+      <find>i</find>
+      <find>merd</find>
+      <find>isWinPosition</find>
+      <find>playsundo</find>
+      <find>getCell</find>
+      <find>resetPlace</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/resources.java" />
+        <option value="$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTestTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTest.groovy" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/ButtonHandler.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/Board2.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/CellButton.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/Position.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/HistoyVictory.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/ConnectFourMain.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/HistoryVictory.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/View.java" />
+        <option value="$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/TestView.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/Cell.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/ConnectFourModel.java" />
+        <option value="$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTest.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/Board.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="connectfour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="connectfour" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pt" type="462c0819:PsiDirectoryNode" />
+              <item name="ipbeja" type="462c0819:PsiDirectoryNode" />
+              <item name="po2" type="462c0819:PsiDirectoryNode" />
+              <item name="connectfour" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="16237_TiagoSilva_PT01_PO2_20182019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557181920070" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pt.ipbeja.po2.connectfour.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.ipbeja.po2.connectfour.gui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.ipbeja.po2.connectfour.gui" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiago\Documents\Faculdade\2_ano\2_semestre\Programacao Orienteda por Objectos\PO2_1819\TG1_2\src\pt\ipbeja\po2\connectfour\gui\pt\ipbeja\po2\connectfour" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConnectFourMain">
+    <configuration name="ConnectFourMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.gui.ConnectFourMain" />
+      <module name="16237_TiagoSilva_TP01_PO2_2018-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16237_TiagoSilva_TP01_PO2_2018-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16237_TiagoSilva_TP01_PO2_2018-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16237_TiagoSilva_TP01_PO2_2018-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="16237_TiagoSilva_TP01_PO2_2018-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test08" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectFourMain" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test07" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test06" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test08" />
+        <item itemvalue="JUnit.ConnectFourModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d823e80-6d6a-42ed-a3c6-0f3c1b83cadc" name="Default Changelist" comment="" />
+      <created>1556635619128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556635619128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.04 at 03h 52m 42s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.04 at 03h 53m 13s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.04 at 03h 53m 24s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.04 at 03h 54m 08s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.05 at 22h 41m 55s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test06 - 2019.05.05 at 22h 43m 53s.xml">
+      <configuration name="ConnectFourModelTest.test06" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.05 at 23h 14m 29s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.05 at 23h 14m 57s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.05 at 23h 15m 31s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.05 at 23h 15m 49s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.1626409" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/resources.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/a.java" />
+    <entry file="file://$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTestTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/ButtonHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/player1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/player2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/Board2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/HistoryVictory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="122" column="56" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/pt/ipbeja/po2/connectfour/model/TestView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/model/ConnectFourModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="167" column="101" selection-start-line="167" selection-start-column="101" selection-end-line="167" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6684#6685#0" expanded="true" />
+            <element signature="e#6757#6758#0" expanded="true" />
+            <element signature="e#8847#8848#0" expanded="true" />
+            <element signature="e#8901#8902#0" expanded="true" />
+            <element signature="e#9549#9550#0" expanded="true" />
+            <element signature="e#9591#9592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/ConnectFourMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/CellButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/po2/connectfour/gui/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="185" column="5" lean-forward="true" selection-start-line="185" selection-start-column="5" selection-end-line="185" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TG1_2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

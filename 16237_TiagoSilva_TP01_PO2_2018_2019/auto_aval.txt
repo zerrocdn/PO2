@@ -1,0 +1,6 @@
+Neste trabalho prático 1, utilizei como fonte de informação o código do TicTacToe realizado o ano passado, e o deste ano.
+Os requesitos essenciais estão totalmente realizados, o requesito 5 dos não essenciais também está totalmente realizado.
+Criei também o Undo do requesito 7, mas somente o Undo e também adicionei a variante de iniciar um novo jogo.
+As horas gastas para a implementação cerca de uma semana.
+Por fim auto avalio-me com 14 valores
+16237 Tiago Silva

@@ -1,0 +1,6 @@
+Th1 Ta8
+Ta1 Th8
+Re1 Re8
+Dd1 Dd8
+Bf1 Bf8
+Bc1 Bc8
